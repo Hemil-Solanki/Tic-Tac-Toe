@@ -44,6 +44,3 @@ By incorporating these functionalities, the Tic Tac Toe game app
 aims to deliver a seamless and enjoyable gaming experience for
 users while also providing a means to track their progress and
 history within the game.
-
-## 🔖 LICENCE
-[WTFPL](http://www.wtfpl.net/about/)
